@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,clouds.all,sys.country,sys.sunrise,sys.sunset
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",stations,10000,1749894346,19800,1269843,Hyderabad,200,78.4744,17.3753,31.68,36.06,31.68,31.68,1002,59,1002,938,3.61,233,3.63,88,IN,1749859900,1749907270
